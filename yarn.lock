@@ -6476,16 +6476,16 @@ nuxt-purgecss@^0.2.1:
     purgecss "^1.1.0"
     purgecss-webpack-plugin "^1.4.0"
 
-nuxt-start@^2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/nuxt-start/-/nuxt-start-2.5.0.tgz#b910d04019b3ddc559a0cf948854976acb319903"
-  integrity sha512-aMQtzWhex0sc0wME3Zx8v86w+JkGqThTJmfwDF753XfC9ToHjLNvWp8fmtJOWZ4pnEIFin8el+bzp+oRooZluQ==
+nuxt-start@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/nuxt-start/-/nuxt-start-2.6.1.tgz#49586aa9dec8c5cfdb09c3921011c13bb8d3c070"
+  integrity sha512-/jpocbpC7jX2PJxe0zAg86JZ6dpl5H/yZ3fEJTYDfireREzuqoUjY1tXd8JeekalXTMwCP+B2sLtPyRzvUXMog==
   dependencies:
-    "@nuxt/cli" "2.5.0"
-    "@nuxt/core" "2.5.0"
+    "@nuxt/cli" "2.6.1"
+    "@nuxt/core" "2.6.1"
     node-fetch "^2.3.0"
     vue "^2.6.10"
-    vue-meta "^1.5.8"
+    vue-meta "^1.6.0"
     vue-no-ssr "^1.1.1"
     vue-router "^3.0.2"
     vuex "^3.1.0"
