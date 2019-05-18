@@ -20,7 +20,7 @@
     "@nuxtjs/style-resources": "^0.1.2",
     "animejs": "^3.0.1",
     "axios-extensions": "^3.0.5",
-    "bulma": "^0.7.4",
+    "bulma": "^0.7.5",
     "cookie-universal-nuxt": "^2.0.14",
     "intersection-observer": "0.6.0",
     "lru-cache": "^5.1.1",
