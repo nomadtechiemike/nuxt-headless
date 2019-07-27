@@ -36,7 +36,7 @@
     "@nuxtjs/sitemap": "^1.2.0",
     "@nuxtjs/style-resources": "^0.1.2",
     "bulma": "^0.7.5",
-    "cookie-universal-nuxt": "^2.0.14",
+    "cookie-universal-nuxt": "^2.0.17",
     "intersection-observer": "^0.7.0",
     "lazysizes": "^5.1.0",
     "nuxt": "^2.8.1",
