@@ -1033,7 +1033,7 @@
     mustache "^2.3.0"
     stack-trace "0.0.10"
 
-"@types/cookie@^0.3.1":
+"@types/cookie@^0.3.3":
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/@types/cookie/-/cookie-0.3.3.tgz#85bc74ba782fb7aa3a514d11767832b0e3bc6803"
   integrity sha512-LKVP3cgXBT9RYj+t+9FDKwS5tdI+rPBXaNSkma7hvqy35lc7mAokC2zsqWJH0LaqIt3B962nuYI77hsJoT1gow==
@@ -2478,23 +2478,23 @@ cookie-signature@1.0.6:
   resolved "https://registry.yarnpkg.com/cookie-signature/-/cookie-signature-1.0.6.tgz#e303a882b342cc3ee8ca513a79999734dab3ae2c"
   integrity sha1-4wOogrNCzD7oylE6eZmXNNqzriw=
 
-cookie-universal-nuxt@^2.0.18:
-  version "2.0.18"
-  resolved "https://registry.yarnpkg.com/cookie-universal-nuxt/-/cookie-universal-nuxt-2.0.18.tgz#95e762a88b5a5b6c23db05521c146260b5576358"
-  integrity sha512-+5ciWAm1B15JN5e4LVnU4Ovs9KqBeYFYwaHrm9ThDZr/12u9REJfxH3wji0iY9NnF2ard3ULlD+R4uEQ0vUNKg==
+cookie-universal-nuxt@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/cookie-universal-nuxt/-/cookie-universal-nuxt-2.1.0.tgz#80eb1d9a0d960a456aa47f5d7bcaa055ebb272fb"
+  integrity sha512-IpHl8o7aTNpzDWSg7tj5tsMEkLeMGpl07UJLj1b7ta7pG+tlsJrjz6vRKZV9MNAO6JLkGu8i0USHTejMelkhNw==
   dependencies:
-    "@types/cookie" "^0.3.1"
-    cookie-universal "^2.0.16"
+    "@types/cookie" "^0.3.3"
+    cookie-universal "^2.1.0"
 
-cookie-universal@^2.0.16:
-  version "2.0.16"
-  resolved "https://registry.yarnpkg.com/cookie-universal/-/cookie-universal-2.0.16.tgz#ec8b55789b502a377ef02ad230923c1dfa5c1061"
-  integrity sha512-EHtQ5Tg3UoUHG7LmeV3rlV3iYthkhUuYZ0y86EseypxGcUuvzxuHExEb6mHKDhDPrIrdewAHdG/aCHuG/T4zEg==
+cookie-universal@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/cookie-universal/-/cookie-universal-2.1.0.tgz#ec898ad412e4166a5506dd770d672955299cabab"
+  integrity sha512-jeLTBlxk68Xyt8izlqeDd1zUXr6q1GXmnwhIpRrtrW+mLpvVnp2fndLly1v7PRvLEV3yXGqoayEbHv+bZUtqpQ==
   dependencies:
-    "@types/cookie" "^0.3.1"
-    cookie "^0.3.1"
+    "@types/cookie" "^0.3.3"
+    cookie "^0.4.0"
 
-cookie@0.4.0:
+cookie@0.4.0, cookie@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/cookie/-/cookie-0.4.0.tgz#beb437e7022b3b6d49019d088665303ebe9c14ba"
   integrity sha512-+Hp8fLp57wnUSt0tY0tHEXh4voZRDnoIrZPqlo3DPiI4y9lwg/jqx+1Om94/W6ZaPDOUbnjOt/99w66zk+l1Xg==
@@ -7464,11 +7464,6 @@ scriptjs@^2.5.9:
   version "2.5.9"
   resolved "https://registry.yarnpkg.com/scriptjs/-/scriptjs-2.5.9.tgz#343915cd2ec2ed9bfdde2b9875cd28f59394b35f"
   integrity sha512-qGVDoreyYiP1pkQnbnFAUIS5AjenNwwQBdl7zeos9etl+hYKWahjRTfzAZZYBv5xNHx7vNKCmaLDQZ6Fr2AEXg==
-
-scrollama@2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/scrollama/-/scrollama-2.1.2.tgz#8fb92a1d76ceff5725b22a0db0103cc0fd211e58"
-  integrity sha512-UQOm+kzZ0Zv7w8VFpRQTMTyy4iDOa6KKB2hMmuajmtTkD/sOnEvKkB7YN9x2zYyCji6awpIgQCUyihvZ/huLRA==
 
 scss-tokenizer@^0.2.3:
   version "0.2.3"
