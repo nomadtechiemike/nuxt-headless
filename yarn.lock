@@ -2580,12 +2580,12 @@ create-hmac@^1.1.0, create-hmac@^1.1.2, create-hmac@^1.1.4:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-cross-env@^6.0.3:
-  version "6.0.3"
-  resolved "https://registry.yarnpkg.com/cross-env/-/cross-env-6.0.3.tgz#4256b71e49b3a40637a0ce70768a6ef5c72ae941"
-  integrity sha512-+KqxF6LCvfhWvADcDPqo64yVIB31gv/jQulX2NGzKS/g3GEVz6/pt4wjHFtFWsHMddebWD/sDthJemzM4MaAag==
+cross-env@^7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/cross-env/-/cross-env-7.0.2.tgz#bd5ed31339a93a3418ac4f3ca9ca3403082ae5f9"
+  integrity sha512-KZP/bMEOJEDCkDQAyRhu3RL2ZO/SUVrxQVI0G3YEQ+OLbRA3c6zgixe8Mq8a/z7+HKlNEjo8oiLUs8iRijY2Rw==
   dependencies:
-    cross-spawn "^7.0.0"
+    cross-spawn "^7.0.1"
 
 cross-spawn@^3.0.0:
   version "3.0.1"
@@ -2606,7 +2606,7 @@ cross-spawn@^6.0.0, cross-spawn@^6.0.5:
     shebang-command "^1.2.0"
     which "^1.2.9"
 
-cross-spawn@^7.0.0:
+cross-spawn@^7.0.0, cross-spawn@^7.0.1:
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-7.0.1.tgz#0ab56286e0f7c24e153d04cc2aa027e43a9a5d14"
   integrity sha512-u7v4o84SwFpD32Z8IIcPZ6z1/ie24O6RU3RbtL5Y316l3KuHVPx9ItBgWQ6VlfAFnRnTtMUrsQ9MUUTuEZjogg==
@@ -7464,11 +7464,6 @@ scriptjs@^2.5.9:
   version "2.5.9"
   resolved "https://registry.yarnpkg.com/scriptjs/-/scriptjs-2.5.9.tgz#343915cd2ec2ed9bfdde2b9875cd28f59394b35f"
   integrity sha512-qGVDoreyYiP1pkQnbnFAUIS5AjenNwwQBdl7zeos9etl+hYKWahjRTfzAZZYBv5xNHx7vNKCmaLDQZ6Fr2AEXg==
-
-scrollama@2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/scrollama/-/scrollama-2.1.2.tgz#8fb92a1d76ceff5725b22a0db0103cc0fd211e58"
-  integrity sha512-UQOm+kzZ0Zv7w8VFpRQTMTyy4iDOa6KKB2hMmuajmtTkD/sOnEvKkB7YN9x2zYyCji6awpIgQCUyihvZ/huLRA==
 
 scss-tokenizer@^0.2.3:
   version "0.2.3"
